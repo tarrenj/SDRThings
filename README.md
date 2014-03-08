@@ -11,4 +11,8 @@ Possible areas of interest:
 Instructions:
     Read the readme for each tool, it'll tell you how to install and configure it.
 
+Personal instructions:
+git clone git://git.osmocom.org/sdrangelove.git
+git clone https://github.com/tarrenj/librtlsdr.git
+
 
